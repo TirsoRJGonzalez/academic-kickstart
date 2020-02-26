@@ -35,7 +35,7 @@ subtitle = ""
   name = "Bash"
 
 [[feature]]
-  icon = "terminal"
+  icon = "laptop-code"
   icon_pack = "fas"
   name = "Scripting"
 
