@@ -43,8 +43,13 @@ subtitle = ""
   icon = "brain"
   icon_pack = "fas"
   name = "Data analysis"
-  
-  [[feature]]
+
+[[feature]]
+  icon = "brain"
+  icon_pack = "fas"
+  name = "Neuropsychological assessment"
+
+[[feature]]
   icon = "code-branch"
   icon_pack = "fas"
   name = "Version control"
