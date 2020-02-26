@@ -32,10 +32,10 @@ education:
     year: 2020
   - course: MSc in Clinical Neuropsychology
     institution: Universidad Nacional Autonoma de Mexico (Mexico City)
-    year: 2009
+    
   - course: Internship in Clinical Neuropsychology
     institution: Centro Internacional de Restauracion Neurologica (Havana, Cuba)
-    year: 2008
+    
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
