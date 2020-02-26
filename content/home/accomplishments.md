@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   title = "Applied Machine Learning in Python"
   url = ""
   certificate_url = "https://coursera.org/share/207b0950eefa34c740a961be8bddc2bd"
-  date_start = ""
+  date_start = "2018-04-11"
   date_end = "2018-05-11"
   description = ""
 
