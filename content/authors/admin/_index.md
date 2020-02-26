@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Tirso RJ Gonzalez Alam
 
 # Username (this should match the folder name)
 authors:
@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD in Cognitive Neuroscience and Neuroimaging
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of York
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include hemispheric differences, semantic cognition, fMRI, machine learning and DTI.
 
 interests:
 - Artificial Intelligence
