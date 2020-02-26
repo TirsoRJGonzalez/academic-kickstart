@@ -31,7 +31,7 @@ subtitle = ""
 
 [[feature]]
   icon = "brain"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Data analysis"
   
 # [[feature]]
