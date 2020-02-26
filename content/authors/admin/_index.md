@@ -21,20 +21,20 @@ organizations:
 bio: My research interests include hemispheric differences, semantic cognition, fMRI, machine learning and DTI.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Semantic Cognition
+- Hemispheric Differences
+- fMRI (resting-state and task-based)
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Cognitive Neuroscience and Neuroimaging (United Kingdom)
+    institution: University of Yorkk
+    year: 2020
+  - course: MSc in Clinical Neuropsychology
+    institution: Universidad Nacional Autonoma de Mexico (Mexico City)
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: Internship in Clinical Neuropsychology
+    institution: Centro Internacional de Restauracion Neurologica (Havana, Cuba)
     year: 2008
 
 # Social/Academic Networking
@@ -44,16 +44,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:trga500@york.ac.uk  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/tirsorjgonzalez
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=wX11AbntPtUC&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/TirsoRJGonzalez
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: trga500@york.ac.uk
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
