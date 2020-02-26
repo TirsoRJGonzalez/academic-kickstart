@@ -43,7 +43,8 @@ subtitle = ""
   icon = "brain"
   icon_pack = "fas"
   name = "Data analysis"
-
+  description = "FSL/FMRIB Software Library 
+    CONN"
 [[feature]]
   icon = "brain"
   icon_pack = "fas"
