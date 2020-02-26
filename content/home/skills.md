@@ -23,7 +23,17 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  
+
+[[feature]]
+  icon = "code"
+  icon_pack = "fas"
+  name = "Matlab"
+
+[[feature]]
+  icon = "terminal"
+  icon_pack = "fas"
+  name = "Bash"
+
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
@@ -34,6 +44,11 @@ subtitle = ""
   icon_pack = "fas"
   name = "Data analysis"
   
+  [[feature]]
+  icon = "code-branch"
+  icon_pack = "fas"
+  name = "Version control"
+
 # [[feature]]
 #  icon = "camera-retro"
 #  icon_pack = "fas"
