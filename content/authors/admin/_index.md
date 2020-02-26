@@ -70,6 +70,9 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a cognitive neuroscientist who works with and is deeply interested in language and semantics. I got my PhD in Cognitive Neuroscience and Neuroimaging from the University of York (January 2020), and my MSc from the National Autonomous University of Mexico in Clinical Neuropsychology. I have worked as a research fellow, associate lecturer and clinical neuropsychologist in three countries over the last 10 years. I am interested in understanding the neural bases of hemispheric differences in language and semantics. My research is mainly focussed on fMRI (both task-based and resting-state), using cognitive paradigms and large-scale cognitive decoding. [ADD MORE]
+
+recently-graduated PhD in Cognitive Neuroscience and Neuroimaging (University of York and York Neuroimaging Centre). My research during the PhD focussed on hemispheric differences in semantic cognition
+His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
