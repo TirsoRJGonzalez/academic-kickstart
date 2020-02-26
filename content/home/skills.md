@@ -35,6 +35,11 @@ subtitle = ""
   name = "Bash"
 
 [[feature]]
+  icon = "terminal"
+  icon_pack = "fas"
+  name = "Scripting"
+
+[[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
@@ -48,7 +53,18 @@ subtitle = ""
 [[feature]]
   icon = "brain"
   icon_pack = "fas"
+  name = "Scanner Operator"
+  description = "GE 3T Signa Excite HDX"
+
+[[feature]]
+  icon = "brain"
+  icon_pack = "fas"
   name = "Neuropsychological assessment"
+
+[[feature]]
+  icon = "chalkboard-teacher"
+  icon_pack = "fas"
+  name = "Teaching"
 
 [[feature]]
   icon = "code-branch"
