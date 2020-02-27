@@ -35,9 +35,9 @@ subtitle = ""
   name = "Bash"
 
 [[feature]]
-  icon = "laptop-code"
+  icon = "chalkboard-teacher"
   icon_pack = "fas"
-  name = "Scripting"
+  name = "Teaching"
 
 [[feature]]
   icon = "chart-line"
@@ -62,9 +62,9 @@ subtitle = ""
   name = "Neuropsychological assessment"
 
 [[feature]]
-  icon = "chalkboard-teacher"
+  icon = "laptop-code"
   icon_pack = "fas"
-  name = "Teaching"
+  name = "Scripting"
 
 [[feature]]
   icon = "code-branch"
