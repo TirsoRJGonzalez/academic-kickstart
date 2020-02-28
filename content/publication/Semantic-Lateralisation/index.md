@@ -1,6 +1,7 @@
 ---
 title: "Degrees of lateralisation in semantic cognition: Evidence from intrinsic connectivity"
-date: 2020-02-28T21:06:19+01:00
+date: 2019-11-11T21:06:19+01:00
+authors: ["Tirso Rene del Jesus Gonzalez Alam", "Theodoros Karapanagiotidis", "Jonathan Smallwood", "Elizabeth Jefferies"]
 draft: false
 publication_types: ["2"]
 publication: "NeuroImage"
