@@ -10,6 +10,6 @@ selected: true
 featured: true
 url_dataset: "https://neurovault.org/collections/4683/"
 [header]
-image: "static/img/Laterality.jpg"
-caption: "Testing"
+  image: "Laterality.jpg"
+  caption: "Testing"
 ---
