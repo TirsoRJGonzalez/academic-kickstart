@@ -1,7 +1,7 @@
 ---
 title: "The structural basis of semantic control: Evidence from individual differences in cortical thickness"
 date: 2018-11-11T21:06:19+01:00
-authors: ["Xiuyi Wang", "Boris C. Berhnardt", "Theodoros Karapanagiotidis", "Irene de Caso", "Tirso Rene del Jesus Gonzalez Alam", "Zacharria Cotter", "Jonathan Smallwood", "Elizabeth Jefferies"]
+authors: ["Xiuyi Wang", "Boris C. Berhnardt", "Theodoros Karapanagiotidis", "Irene de Caso", "<b>Tirso Rene del Jesus Gonzalez Alam</b>", "Zacharria Cotter", "Jonathan Smallwood", "Elizabeth Jefferies"]
 draft: false
 publication_types: ["2"]
 publication: "NeuroImage"
