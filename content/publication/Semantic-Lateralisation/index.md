@@ -9,4 +9,7 @@ abstract: "The semantic network is thought to include multiple components, inclu
 selected: true
 featured: true
 url_dataset: "https://neurovault.org/collections/4683/"
+[header]
+image: "Laterality.jpg"
+caption: "Testing"
 ---
