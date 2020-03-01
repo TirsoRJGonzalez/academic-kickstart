@@ -1,7 +1,7 @@
 ---
 title: "Dissociations in semantic cognition: Oscillatory evidence for opposing effects of semantic control and type of semantic relation in anterior and posterior temporal cortex"
 date: 2019-11-11T21:06:19+01:00
-authors: ["Catarina Teige", "Piers L. Cornelissen", "Giovanna Mollo", "Tirso Rene del Jesus Gonzalez Alam", "Kristofor McCarty", "Jonathan Smallwood", "Elizabeth Jefferies"]
+authors: ["Catarina Teige", "Piers L. Cornelissen", "Giovanna Mollo", "<b><big>Tirso Rene del Jesus Gonzalez Alam</big></b>", "Kristofor McCarty", "Jonathan Smallwood", "Elizabeth Jefferies"]
 draft: false
 publication_types: ["2"]
 publication: "Cortex"
