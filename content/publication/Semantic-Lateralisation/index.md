@@ -13,3 +13,4 @@ url_dataset: "https://neurovault.org/collections/4683/"
   image: "Laterality.jpg"
   caption: "Testing"
 ---
+{{< figure library="true" src="Laterality.jpg" title="A caption" lightbox="true" >}}
