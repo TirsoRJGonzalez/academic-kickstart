@@ -80,4 +80,4 @@ His research interests include distributed robotics, mobile computing and progra
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{% staticref "files/CV.pdf" %}}Download my CV{{% /staticref %}}
+{{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}
