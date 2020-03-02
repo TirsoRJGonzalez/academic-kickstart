@@ -9,7 +9,7 @@ abstract: "The semantic network is thought to include multiple components, inclu
 selected: true
 featured: true
 url_dataset: "https://neurovault.org/collections/4683/"
-[header]
-image = "headers/Laterality.jpg" #the image path is header/...jpg
-caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
+[header]:
+  image: "headers/Laterality.jpg" #the image path is header/...jpg
+  caption: "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
 ---
