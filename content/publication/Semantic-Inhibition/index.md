@@ -10,6 +10,6 @@ selected: true
 featured: true
 url_dataset: "https://neurovault.org/collections/3158/"
 [header]
-image = "headers/Inhibition.jpg" #the image path is header/...jpg
+image: "headers/Inhibition.jpg" #the image path is header/...jpg
 caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
 ---
