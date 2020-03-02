@@ -9,4 +9,6 @@ abstract: "We frequently guide our decisions about when and how to act based on 
 selected: true
 featured: true
 url_dataset: "https://neurovault.org/collections/3158/"
+image = "headers/Inhibition.jpg"
+caption = "Testing a simple caption"
 ---
