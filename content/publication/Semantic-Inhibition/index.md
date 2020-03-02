@@ -1,7 +1,7 @@
 ---
 title: "Meaningful inhibition: Exploring the role of meaning and modality in response inhibition"
 date: 2018-02-02T21:06:19+01:00
-authors: ["<b><big>Tirso Rene del Jesus Gonzalez Alam</big></b>", "Charlotte Murphy", "Jonathan Smallwood", "Elizabeth Jefferies"]
+authors: ["<b>Tirso Rene del Jesus Gonzalez Alam</b>", "Charlotte Murphy", "Jonathan Smallwood", "Elizabeth Jefferies"]
 draft: false
 publication_types: ["2"]
 publication: "NeuroImage"
