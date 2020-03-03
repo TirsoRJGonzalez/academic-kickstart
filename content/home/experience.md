@@ -18,27 +18,29 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "PhD Student"
+  company = "University of York, Department of Psychology & York Neuroimaging Centre"
+  company_url = "https://www.york.ac.uk/psychology/staff/postgrads/trga500/"
+  location = "York, UK"
+  date_start = "2015-01-10"
+  date_end = "2020-29-01"
   description = """
-  Responsibilities include:
+  Designed, implemented and analysed three major research projects while collaborating in others:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Hemispheric differences in connectivity of semantic cognition regions
+  * Relationship between domain-general inhibition and semantic control
+  * Lateralisation patterns in semantic cognition in anterior temporal lobe
+
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Statistics Tutor and consultant"
+  company = "University of York, Maths SKills Centre and Academic Support Office"
+  company_url = "https://www.york.ac.uk/students/studying/skills/maths-skills-centre/"
+  location = "York, UK"
+  date_start = "2018-01-08"
+  date_end = "2019-01-08"
+  description = """Served as tutor in statistics to undergraduate, masters and PhD students in University of York's Maths Skills Centre. Designed, implemented and interpreted statistical analyses of student experience surveys (n > 2000) over a period of two years to help guide decisions in education"""
+
 
 +++
