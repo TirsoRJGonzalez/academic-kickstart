@@ -42,5 +42,13 @@ date_format = "Jan 2006"
   date_end = "2019-01-08"
   description = """Served as tutor in statistics to undergraduate, masters and PhD students in University of York's Maths Skills Centre. Designed, implemented and interpreted statistical analyses of student experience surveys (n > 2000) over a period of two years to help guide decisions in education"""
 
+[[experience]]
+  title = "Graduate Teaching Assistant"
+  company = "University of York, Department of Psychology & York Neuroimaging Centre"
+  company_url = "https://www.york.ac.uk/students/studying/skills/maths-skills-centre/"
+  location = "York, UK"
+  date_start = "2016-10-01"
+  date_end = "2019-01-27"
+  description = """Delivered tutorials and provided support with teaching in research methods, brain & behaviour, perception & cogntion  and language & development in the undergraduate Psychology Programme. Provided support with teaching Programming in Neuroimaging (Python) for the masters programme in York Neuroimaging Centre. Supervised and provided feedback for new Graduate Teaching Assistants. """
 
 +++
