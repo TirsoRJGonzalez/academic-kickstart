@@ -54,7 +54,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Research Fellow"
   company = "Universidad Anahuac Mayab, Escuela de Psicologia"
-  company_url = "https://www.york.ac.uk/psychology/staff/postgrads/trga500/"
+  company_url = "https://www.anahuacmayab.mx/psicologia/"
   location = "Merida, Yucatan. Mexico."
   date_start = "2009-01-08"
   date_end = "2015-01-02"
@@ -65,7 +65,17 @@ date_format = "Jan 2006"
   * Neuropsychologic deficits in morbid chronic obesity
   * Hemispheric differences in semantic priming through divided visual fields
 
+  Supervised 17 undergraduate students' research as principal investigator. Helped consolidate a collegiate body in Health science with researchers in the schools of Medicine and Nutrition Science. Organised national symposia and conferences in Neuropsychology. Helped start the Mexican Journal of Neuropsychology in collaboration with the Mexican Association of Neuropsychology.
+  """
 
-  Supervised 17 undergraduate students' research as principal investigator. Helped consolidate a collegiate body in Health science with researchers in the schools of Medicine and Nutrition Science. Organised national symposia and conferences in Neuropsychology. Helped start the Mexican Journal of Neuropsychology in collaboration with the Mexican Association of Neuropsychology
+[[experience]]
+  title = "Associate Lecturer"
+  company = "Universidad Anahuac Mayab (Escuela de Psicologia) and Red de Universidades Anahuac"
+  company_url = "https://www.anahuac.mx/"
+  location = "Merida, Yucatan. Mexico."
+  date_start = "2009-01-08"
+  date_end = "2015-01-02"
+  description = """
+  Designed, lectured, assessed and tutored 17 undergraduate and postgraduate courses in research methods, statistics, experimental psychology, clinical and cognitive neuropsychology, cognitive psychology and language development and disorders. These courses were mainly delivered in the schools of Psychology and Medicine in Anahuac Mayab (Yucatan), and as visiting lecturer in Universidad Marista (Yucatan), Facultad de Psicologia UNAM, Universidad Anahuac Mexico Sur and Universidad Latina (Mexico City). A comprehensive list of teaching can be consulted here
   """
 +++
