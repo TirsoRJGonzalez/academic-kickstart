@@ -51,4 +51,20 @@ date_format = "Jan 2006"
   date_end = "2019-01-27"
   description = """Delivered tutorials and provided support with teaching in research methods, brain & behaviour, perception & cogntion  and language & development in the undergraduate Psychology Programme. Provided support with teaching Programming in Neuroimaging (Python) for the masters programme in York Neuroimaging Centre. Supervised and provided feedback for new Graduate Teaching Assistants. """
 
+[[experience]]
+  title = "Research Fellow"
+  company = "Universidad Anahuac Mayab"
+  company_url = "https://www.york.ac.uk/psychology/staff/postgrads/trga500/"
+  location = "Merida, Yucatan. Mexico."
+  date_start = "2009-01-08"
+  date_end = "2015-01-02"
+  description = """
+  Secured Funding, designed, implemented and analysed three major research projects in cognitive and clinical neuropsychology:
+  
+  * Hemispheric differences in connectivity of semantic cognition regions
+  * Relationship between domain-general inhibition and semantic control
+  * Lateralisation patterns in semantic cognition in anterior temporal lobe
+
+  Supervised 17 undergraduate students' research as principal investigator.
+  """
 +++
