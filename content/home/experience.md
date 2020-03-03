@@ -53,7 +53,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Research Fellow"
-  company = "Universidad Anahuac Mayab"
+  company = "Universidad Anahuac Mayab, Escuela de Psicologia"
   company_url = "https://www.york.ac.uk/psychology/staff/postgrads/trga500/"
   location = "Merida, Yucatan. Mexico."
   date_start = "2009-01-08"
@@ -61,10 +61,11 @@ date_format = "Jan 2006"
   description = """
   Secured Funding, designed, implemented and analysed three major research projects in cognitive and clinical neuropsychology:
   
-  * Hemispheric differences in connectivity of semantic cognition regions
-  * Relationship between domain-general inhibition and semantic control
-  * Lateralisation patterns in semantic cognition in anterior temporal lobe
+  * Psychometric properties of dichotic listening in determining laterality of speech dominance
+  * Neuropsychologic deficits in morbid chronic obesity
+  * Hemispheric differences in semantic priming through divided visual fields
 
-  Supervised 17 undergraduate students' research as principal investigator.
+
+  Supervised 17 undergraduate students' research as principal investigator. Helped consolidate a collegiate body in Health science with researchers in the schools of Medicine and Nutrition Science. Organised national symposia and conferences in Neuropsychology. Helped start the Mexican Journal of Neuropsychology in collaboration with the Mexican Association of Neuropsychology
   """
 +++
