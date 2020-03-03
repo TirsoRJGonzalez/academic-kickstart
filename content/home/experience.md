@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://www.york.ac.uk/psychology/staff/postgrads/trga500/"
   location = "York, UK"
   date_start = "2015-01-10"
-  date_end = "2020-29-01"
+  date_end = "2020-01-02"
   description = """
   Designed, implemented and analysed three major research projects while collaborating in others:
   
