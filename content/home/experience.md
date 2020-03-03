@@ -76,6 +76,6 @@ date_format = "Jan 2006"
   date_start = "2009-01-08"
   date_end = "2015-01-02"
   description = """
-  Designed, lectured, assessed and tutored 17 undergraduate and postgraduate courses in research methods, statistics, experimental psychology, clinical and cognitive neuropsychology, cognitive psychology and language development and disorders. These courses were mainly delivered in the schools of Psychology and Medicine in Anahuac Mayab (Yucatan), and as visiting lecturer in Universidad Marista (Yucatan), Facultad de Psicologia UNAM, Universidad Anahuac Mexico Sur and Universidad Latina (Mexico City). A comprehensive list of teaching can be consulted here
+  Designed, lectured, assessed and tutored 17 undergraduate and postgraduate courses in research methods, statistics, experimental psychology, clinical and cognitive neuropsychology, cognitive psychology and language development and disorders. These courses were mainly delivered in the schools of Psychology and Medicine in Anahuac Mayab (Yucatan), and as visiting lecturer in Universidad Marista (Yucatan), Facultad de Psicologia UNAM, Universidad Anahuac Mexico Sur and Universidad Latina (Mexico City). A comprehensive list of teaching can be consulted [here]("files/teaching.pdf")
   """
 +++
