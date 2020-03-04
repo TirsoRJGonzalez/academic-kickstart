@@ -44,7 +44,7 @@ date_format = "Jan 2006"
   title = "PhD Scholarship"
   url = ""
   certificate_url = ""
-  date_start = "2015-10-1"
+  date_start = "2015-10-01"
   date_end = "2018-09-30"
   description = "Full scholarship for PhD project 'Interhemispheric Differences in Semantic Cognition' (£87,760)"
 
