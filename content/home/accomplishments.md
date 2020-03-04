@@ -49,6 +49,16 @@ date_format = "Jan 2006"
   description = "Full scholarship for PhD project 'Interhemispheric Differences in Semantic Cognition' (£87,760)"
 
 [[item]]
+  organization = "National Centre for Assessment in Higher Education"
+  organization_url = "https://www.ceneval.edu.mx/"
+  title = "Appointed Scientific Editor"
+  url = ""
+  certificate_url = ""
+  date_start = "2013-09-10"
+  date_end = ""
+  description = "Appointed Member of the National Academic Committee, tasked with designing items for the National Psychology Examination."
+
+[[item]]
   organization = "Mexican Association of Neuropsychology"
   organization_url = ""
   title = "Appointed Scientific Editor"
