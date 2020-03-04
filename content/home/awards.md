@@ -8,7 +8,12 @@ weight = 45  # Order that this section will appear.
 title = "Awards, Conferences and Activities"
 subtitle = ""
 
-[[Award]]
+
+# Date format
+#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
+date_format = "Jan 2006"
+
+[[award]]
   title = "PhD Scholarship"
   company = "National Council of Science and Technology"
   company_url = "https://www.conacyt.gob.mx/"
