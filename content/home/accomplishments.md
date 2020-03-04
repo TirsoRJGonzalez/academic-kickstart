@@ -21,10 +21,10 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Department of Psychology, University of York"
   organization_url = "https://www.coursera.org"
-  title = "PhD Viva Passed with No Corrections"
+  title = "PhD Viva (Passed with No Corrections)"
   url = ""
   certificate_url = ""
-  date_start = "2018-04-11"
+  date_start = "2020-01-27"
   date_end = ""
   description = ""
 
@@ -38,5 +38,14 @@ date_format = "Jan 2006"
   date_end = "2018-05-11"
   description = ""
 
+[item]]
+  organization = "National Council of Science and Technology (Mexico)"
+  organization_url = "https://www.conacyt.gob.mx/"
+  title = "PhD Scholarship"
+  url = ""
+  certificate_url = ""
+  date_start = "2015-10-1"
+  date_end = "2018-09-30"
+  description = "Full scholarship for PhD project 'Interhemispheric Differences in Semantic Cognition' (£87,760)"
 
 +++
