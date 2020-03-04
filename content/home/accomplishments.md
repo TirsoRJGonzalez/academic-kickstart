@@ -51,7 +51,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "National Centre for Assessment in Higher Education"
   organization_url = "https://www.ceneval.edu.mx/"
-  title = "Appointed Scientific Editor"
+  title = "Appointed Member of National Academic Committee"
   url = ""
   certificate_url = ""
   date_start = "2013-09-10"
