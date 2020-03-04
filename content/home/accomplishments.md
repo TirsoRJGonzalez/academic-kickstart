@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   date_end = "2018-05-11"
   description = ""
 
-[item]]
+[[item]]
   organization = "National Council of Science and Technology (Mexico)"
   organization_url = "https://www.conacyt.gob.mx/"
   title = "PhD Scholarship"
