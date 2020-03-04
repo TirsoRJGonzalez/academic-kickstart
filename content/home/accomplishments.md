@@ -48,4 +48,14 @@ date_format = "Jan 2006"
   date_end = "2018-09-30"
   description = "Full scholarship for PhD project 'Interhemispheric Differences in Semantic Cognition' (£87,760)"
 
+[[item]]
+  organization = "Mexican Association of Neuropsychology"
+  organization_url = ""
+  title = "Appointed Scientific Editor"
+  url = ""
+  certificate_url = ""
+  date_start = "2011-11-10"
+  date_end = ""
+  description = "Appointed full member of the Association and offered position of responsibility as editor of their scientific journal"
+
 +++
