@@ -29,16 +29,6 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Applied Machine Learning in Python"
-  url = ""
-  certificate_url = "https://www.coursera.org/account/accomplishments/certificate/MK2QK6JGZ498"
-  date_start = "2018-04-11"
-  date_end = "2018-05-11"
-  description = ""
-
-[[item]]
   organization = "National Council of Science and Technology (Mexico)"
   organization_url = "https://www.conacyt.gob.mx/"
   title = "PhD Scholarship"

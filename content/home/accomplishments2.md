@@ -60,6 +60,6 @@ date_format = "Jan 2006"
 
   # To add:
   # Teaching and learning
-  # TMS
+  # Managing your research project/data
   # MATLAB Fundamentals
 +++
