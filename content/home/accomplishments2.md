@@ -48,10 +48,18 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
-
+[[item]]
+  organization = "Magstim"
+  organization_url = "https://www.magstim.com/"
+  title = "The Magstim Neurostim Academy (TMS)"
+  url = "https://lukas-snoek.com/ICON2017/"
+  certificate_url = "files/teaching.pdf"
+  date_start = "2016-11-12"
+  date_end = ""
+  description = "Practical workshop focussed on TMS: Basic physiology, neuronavigation and cognitive studies"
 
   # To add:
-   # Teaching and learning
+  # Teaching and learning
   # TMS
   # MATLAB Fundamentals
 +++
