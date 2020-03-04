@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "York Neuroimaging Centre"
+  organization_url = "https://www.ynic.york.ac.uk/"
+  title = "MRI Operator (GE & Siemens)"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-10-30"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
   title = "Applied Machine Learning in Python"
@@ -31,16 +41,17 @@ date_format = "Jan 2006"
 [[item]]
   organization = "International Conference for Cognitve Neuroscience"
   organization_url = "https://www.helsinki.fi/en/conferences/international-conference-of-cognitive-neuroscience-2020"
-  title = "MVPA of fMRI Data in Python"
+  title = "ICON 17 MVPA of fMRI Data in Python Workshop"
   url = "https://lukas-snoek.com/ICON2017/"
   certificate_url = ""
   date_start = "2017-08-06"
   date_end = ""
   description = ""
 
+
+
   # To add:
-  # MRI operator
-  # Teaching and learning
+   # Teaching and learning
   # TMS
   # MATLAB Fundamentals
 +++
