@@ -34,20 +34,30 @@ date_format = "Jan 2006"
   title = "Applied Machine Learning in Python"
   url = ""
   certificate_url = "https://www.coursera.org/account/accomplishments/certificate/MK2QK6JGZ498"
-  date_start = "2018-04-11"
-  date_end = "2018-05-11"
+  date_start = "2018-05-11"
+  date_end = ""
   description = ""
 
 [[item]]
   organization = "International Conference for Cognitve Neuroscience"
   organization_url = "https://www.helsinki.fi/en/conferences/international-conference-of-cognitive-neuroscience-2020"
-  title = "ICON 17 MVPA of fMRI Data in Python Workshop"
+  title = "MVPA of fMRI Data in Python (ICON 17 Workshop)"
   url = "https://lukas-snoek.com/ICON2017/"
   certificate_url = ""
   date_start = "2017-08-06"
   date_end = ""
   description = ""
 
+[[item]]
+  organization = "Mathworks"
+  organization_url = "https://uk.mathworks.com/"
+  title = "MATLAB Fundamentals"
+  url = ""
+  certificate_url = "files/Matlab_certificate.pdf"
+  date_start = "2017-03-31"
+  date_end = ""
+  description = ""
+  
 [[item]]
   organization = "Magstim"
   organization_url = "https://www.magstim.com/"
@@ -58,8 +68,10 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Practical workshop focussed on TMS: Basic physiology, neuronavigation and cognitive studies"
 
+
   # To add:
   # Teaching and learning
   # Managing your research project/data
-  # MATLAB Fundamentals
+ 
+  # Other sections: Add experiment design and implementation eprime psychopy pavlovia etc
 +++
