@@ -71,6 +71,12 @@ subtitle = ""
   icon_pack = "fas"
   name = "Version control"
 
+[[feature]]
+  icon = "desktop"
+  icon_pack = "fas"
+  name = "Psychological Experiments"
+  description = "Psychopy <br/> Pavlovia <br/> E-Prime"
+
 # [[feature]]
 #  icon = "camera-retro"
 #  icon_pack = "fas"
