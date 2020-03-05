@@ -76,6 +76,10 @@ user_groups:
 
 I am a cognitive neuroscientist who works with and is deeply interested in language and semantics. I got my PhD in Cognitive Neuroscience and Neuroimaging from the University of York (January 2020), and my MSc from the National Autonomous University of Mexico in Clinical Neuropsychology. I have worked as a research fellow, associate lecturer and clinical neuropsychologist in three countries over the last 10 years. I am interested in understanding the neural bases of hemispheric differences in language and semantics. My research is mainly focussed on fMRI (both task-based and resting-state), using cognitive paradigms and large-scale cognitive decoding. [ADD MORE]
 
+Born in [Merida (Yucatan, Mexico)](https://en.wikipedia.org/wiki/M%C3%A9rida,_Yucat%C3%A1n)
+
+I just graduated my PhD, during which under the supervision of Professors [Beth Jefferies](https://www.york.ac.uk/psychology/staff/academicstaff/ej514/) and [Jonny Smallwood](https://www.york.ac.uk/psychology/staff/academicstaff/jonathan_smallwood/) I worked on hemispheric differences in semantic cognition using fMRI as my main neuroimaging tool. 
+
 recently-graduated PhD in Cognitive Neuroscience and Neuroimaging (University of York and York Neuroimaging Centre). My research during the PhD focussed on hemispheric differences in semantic cognition
 His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
