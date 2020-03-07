@@ -84,4 +84,4 @@ After my last project in the research fellowship, my interests shifted specifica
 
 Currently, my research interests include 
 
-{{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}
+{{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}} or email me at [trga500@york.ac.uk](mailto:trga500@york.ac.uk)
