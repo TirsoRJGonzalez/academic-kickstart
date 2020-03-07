@@ -29,6 +29,10 @@
   url = "#skills"
   weight = 50
 
+[[main]]
+  name = "Accomplishments"
+  url = "#accomplishments"
+  weight = 55
 
 # Link to a PDF of Teaching from the menu.
  [[main]]
