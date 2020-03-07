@@ -90,4 +90,6 @@ Currently, my research interests include furthering our understanding on how we 
 
 In general, I would be keen on promoting open science, replicability and data-sharing best practices with my future work, pushing for greater integration and replicability of results across labs in the world. I would like to do further work with fMRI and expand to MEG to probe the temporal resolution of semantic processing.
 
+On my free time, I like to learn/improve on programming languages, work in visual arts projects ([VJing](https://liveperformersmeeting.net/editions/2018-rome/artists/ccs/), glitch art, algorithmic art and [film criticism [in Spanish]](https://en.yelp.be/biz/la-esquina-del-goya-m%C3%A9rida)), reading, listening to podcasts and playing videogames (find me on Blizzard [tarantirso#1468], Steam [441497605], Xbox [tarantirso] or MTG Arena [tarantirso#98874] for a match, usually at night).
+
 {{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}} or email me at [trga500@york.ac.uk](mailto:trga500@york.ac.uk)
