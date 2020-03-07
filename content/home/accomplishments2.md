@@ -39,9 +39,9 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "International Conference for Cognitve Neuroscience"
+  organization = "International Conference for Cognitve Neuroscience (ICON 17 Workshop)"
   organization_url = "https://www.helsinki.fi/en/conferences/international-conference-of-cognitive-neuroscience-2020"
-  title = "MVPA of fMRI Data in Python (ICON 17 Workshop)"
+  title = "MVPA of fMRI Data in Python"
   url = "https://lukas-snoek.com/ICON2017/"
   certificate_url = ""
   date_start = "2017-08-06"

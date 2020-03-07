@@ -62,6 +62,12 @@ subtitle = ""
   name = "Neuropsychological assessment"
 
 [[feature]]
+  icon = "desktop"
+  icon_pack = "fas"
+  name = "Psychological Experiments"
+  description = "Psychopy <br/> Pavlovia <br/> E-Prime"
+
+[[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
   name = "Scripting"
@@ -71,11 +77,6 @@ subtitle = ""
   icon_pack = "fas"
   name = "Version control"
 
-[[feature]]
-  icon = "desktop"
-  icon_pack = "fas"
-  name = "Psychological Experiments"
-  description = "Psychopy <br/> Pavlovia <br/> E-Prime"
 
 # [[feature]]
 #  icon = "camera-retro"
