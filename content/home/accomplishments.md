@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2020-01-27"
   date_end = ""
-  description = ""
+  description = "Both my external ([Michel Thiebaut de Schotten](https://scholar.google.com/citations?user=-YTRX74AAAAJ&hl=en)) and internal ([Rob Jenkins](https://scholar.google.com/citations?user=uuvi4JIAAAAJ&hl=en)) examiners agreed to grant me the honour of passing without corrections, upon review of my thesis and its verbal defence"
 
 [[item]]
   organization = "National Council of Science and Technology (Mexico)"
