@@ -21,9 +21,11 @@ organizations:
 bio: My research interests include hemispheric differences, semantic cognition, fMRI, machine learning and DTI.
 
 interests:
+- Brain Connectivity
 - Semantic Cognition
 - Hemispheric Differences
 - fMRI (resting-state and task-based)
+- Programming in Neuroscience
 
 education:
   courses:
