@@ -26,12 +26,12 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2020-01-27"
   date_end = ""
-  description = "Both my external ([Michel Thiebaut de Schotten](https://scholar.google.com/citations?user=-YTRX74AAAAJ&hl=en)) and internal ([Rob Jenkins](https://scholar.google.com/citations?user=uuvi4JIAAAAJ&hl=en)) examiners agreed to grant me the honour of passing without corrections, upon review of my thesis and its verbal defence"
+  description = "My external ([Michel Thiebaut de Schotten](https://scholar.google.com/citations?user=-YTRX74AAAAJ&hl=en)) and internal ([Rob Jenkins](https://scholar.google.com/citations?user=uuvi4JIAAAAJ&hl=en)) examiners agreed to grant me the honour of passing without corrections, upon review of my thesis and its verbal defence, due to the quality of the work presented"
 
 [[item]]
   organization = "National Council of Science and Technology (Mexico)"
   organization_url = "https://www.conacyt.gob.mx/"
-  title = "Secured Competitive Internation Full PhD Scholarship"
+  title = "Secured Competitive International Full PhD Scholarship"
   url = ""
   certificate_url = ""
   date_start = "2015-10-01"
@@ -46,7 +46,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2013-09-10"
   date_end = ""
-  description = "Appointed Member of the National Academic Committee, tasked with designing items for the National Psychology Examination."
+  description = "Appointed Member of the National Academic Committee, tasked with designing items for the Standardised National Psychology Examination."
 
 [[item]]
   organization = "Mexican Association of Neuropsychology"
