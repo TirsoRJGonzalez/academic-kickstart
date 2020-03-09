@@ -66,10 +66,11 @@ date_format = "Jan 2006"
   certificate_url = "files/TMS.pdf"
   date_start = "2016-11-12"
   date_end = ""
-  description = "Practical workshop focussed on TMS: Basic physiology, neuronavigation and cognitive studies"
+  description = ""
 
 
   # To add:
+  # Practical workshop focussed on TMS: Basic physiology, neuronavigation and cognitive studies
   # Teaching and learning
   # Managing your research project/data
  
