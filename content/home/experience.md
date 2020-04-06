@@ -25,13 +25,13 @@ date_format = "Jan 2006"
   date_start = "2015-10-01"
   date_end = "2020-02-01"
   description = """
-  Designed, implemented, analysed and wrote up three research projects, disseminating their results as publications and presentations at international conferences, while collaborating in several other projects in the wider research group:
+  Designed, implemented, analysed and wrote up three research projects, disseminating their results as publications and presentations at international conferences, while collaborating in several other projects in the broader research group:
   
   * Hemispheric differences in connectivity of semantic cognition regions
   * Relationship between domain-general inhibition and semantic control
   * Lateralisation patterns in semantic cognition in anterior temporal lobe
 
-  Supervised 12 students' data collection for dissertation and taught in 17 courses at the MSc and undergraduate levels.
+  Supervised 10 students' data collection for dissertation and taught in 17 courses at the MSc and undergraduate levels.
 
   """
 
@@ -42,7 +42,9 @@ date_format = "Jan 2006"
   location = "York, UK"
   date_start = "2018-01-08"
   date_end = "2019-01-08"
-  description = """Served as tutor in statistics to undergraduate, masters and PhD students in University of York's Maths Skills Centre. Designed, implemented and interpreted statistical analyses of student experience surveys (n > 1,500) over a period of two years to help guide decisions in education"""
+  description = """
+  * Served as tutor in statistics to undergraduate, masters and PhD students in University of York's Maths Skills Centre. 
+  * Designed, implemented and interpreted statistical analyses of student experience surveys (n > 1,500) over a period of two years to help guide decisions in education"""
 
 [[experience]]
   title = "Graduate Teaching Assistant"
@@ -51,7 +53,10 @@ date_format = "Jan 2006"
   location = "York, UK"
   date_start = "2016-10-01"
   date_end = "2019-01-27"
-  description = """Delivered tutorials and provided support with teaching in research methods, brain & behaviour, perception & cogntion and language & development in the undergraduate Psychology Programme. Provided support with teaching Programming in Neuroimaging (Python) for the masters programme in York Neuroimaging Centre. Supervised and provided feedback for new Graduate Teaching Assistants. """
+  description = """
+  * Delivered tutorials and provided support with teaching in research methods, brain & behaviour, perception & cogntion and language & development in the undergraduate Psychology Programme. 
+  * Provided support with teaching Programming in Neuroimaging (Python) for the masters programme in York Neuroimaging Centre. 
+  * Supervised and provided feedback for new Graduate Teaching Assistants. """
 
 [[experience]]
   title = "Research Fellow"
@@ -61,7 +66,7 @@ date_format = "Jan 2006"
   date_start = "2009-08-01"
   date_end = "2015-07-02"
   description = """
-  Secured Funding, designed, implemented and analysed three major research projects in cognitive and clinical neuropsychology:
+  Designed, implemented, analysed and secured funding for three major research projects in cognitive and clinical neuropsychology:
   
   * Psychometric properties of dichotic listening in determining laterality of speech dominance
   * Neuropsychologic deficits in morbid chronic obesity

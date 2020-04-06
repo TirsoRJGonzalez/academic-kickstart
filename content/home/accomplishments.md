@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2020-01-27"
   date_end = ""
-  description = "My external ([Michel Thiebaut de Schotten](https://scholar.google.com/citations?user=-YTRX74AAAAJ&hl=en)) and internal ([Rob Jenkins](https://scholar.google.com/citations?user=uuvi4JIAAAAJ&hl=en)) examiners agreed to grant me the honour of passing without corrections, upon review of my thesis and its verbal defence, due to the quality of the work presented"
+  description = "My external ([Michel Thiebaut de Schotten](https://scholar.google.com/citations?user=-YTRX74AAAAJ&hl=en)) and internal ([Rob Jenkins](https://scholar.google.com/citations?user=uuvi4JIAAAAJ&hl=en)) examiners agreed to grant me the honour of passing without corrections, upon review of my thesis and its verbal defence, due to the quality of the work presented."
 
 [[item]]
   organization = "National Council of Science and Technology (Mexico)"
@@ -35,8 +35,8 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2015-10-01"
-  date_end = "2018-09-30"
-  description = "Full scholarship for PhD project 'Interhemispheric Differences in Semantic Cognition' (£87,760)"
+  date_end = "2019-09-30"
+  description = "Full scholarship for PhD project 'Interhemispheric Differences in Semantic Cognition' (£87,760)."
 
 [[item]]
   organization = "National Centre for Assessment in Higher Education"
@@ -56,6 +56,6 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2011-11-10"
   date_end = ""
-  description = "Appointed full member of the Association and offered position of responsibility as editor of their scientific journal"
+  description = "Appointed full member of the Association and offered position of responsibility as editor of their scientific journal."
 
 +++
