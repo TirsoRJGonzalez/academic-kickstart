@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Mathworks"
+  organization_url = "https://uk.mathworks.com/"
+  title = "Machine Learning with MATLAB"
+  url = ""
+  certificate_url = "files/Matlab_certificate.pdf"
+  date_start = "2020-03-31"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "York Neuroimaging Centre"
   organization_url = "https://www.ynic.york.ac.uk/"
   title = "MRI Operator (GE & Siemens)"
@@ -45,16 +55,6 @@ date_format = "Jan 2006"
   url = "https://lukas-snoek.com/ICON2017/"
   certificate_url = ""
   date_start = "2017-08-06"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "Mathworks"
-  organization_url = "https://uk.mathworks.com/"
-  title = "MATLAB Fundamentals"
-  url = ""
-  certificate_url = "files/Matlab_certificate.pdf"
-  date_start = "2017-03-31"
   date_end = ""
   description = ""
   
