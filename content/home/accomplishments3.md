@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2020-03-01"
   date_end = ""
-  description = "Previous work has shown that left posterior middle temporal gyrus regions are important for the controlled retrieval of aspects of semantic representations that are relevant to the current context/goals, and that these regions seem to form a left-lateralised network with other regions in inferior frontal gyrus. This project aims to characterise if differences in the architecture of white matter tracts and their projections across the left and right cerebral hemispheres contribute to the organisation of a left-lateralised network involved in semantic control, as has been observed using intrinsic connectivity".
+  description = "Previous work has shown that left posterior middle temporal gyrus regions are important for the controlled retrieval of aspects of semantic representations that are relevant to the current context/goals, and that these regions seem to form a left-lateralised network with other regions in inferior frontal gyrus. This project aims to characterise if differences in the architecture of white matter tracts and their projections across the left and right cerebral hemispheres contribute to the organisation of a left-lateralised network involved in semantic control, as has been observed using intrinsic connectivity"
 
 [[item]]
   organization = "University of York, Department of Psychology and York Neuroimaging Centre"
