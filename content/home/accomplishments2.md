@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "OpenHPI"
+  organization_url = "https://open.hpi.de/"
+  title = "Introduction to Bayesian Data Analysis"
+  url = "https://open.hpi.de/courses/bayesian-statistics2023"
+  certificate_url = "files/Matlab_certificate.pdf"
+  date_start = "2023-01-25"
+  date_end = "2023-03-13"
+  description = ""
+
+[[item]]
   organization = "Mathworks"
   organization_url = "https://uk.mathworks.com/"
   title = "Machine Learning with MATLAB"
