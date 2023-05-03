@@ -67,7 +67,7 @@ social:
   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: trga500@york.ac.uk
+email: tirso.gonzalez.alam@york.ac.uk
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -76,7 +76,7 @@ user_groups:
 - Visitors
 ---
 
-I am a Research Associate at in the [Department of Psychology](https://www.york.ac.uk/psychology) of the University of York and [York Neuroimaging Centre](https://www.york.ac.uk/psychology/research/york-neuroimaging-centre/) working with Professor [Beth Jefferies](https://scholar.google.co.uk/citations?user=9OBIArkAAAAJ&hl=en). I received my PhD in Cognitive Neuroscience and Neuroimaging from the University of York (2020), and my MSc in Clinical Neuropsychology from the [National Autonomous University of Mexico](https://www.unam.mx/). I am interested in understanding how large-scale cortical networks and intrinsic connectivity gradients organise to give rise to semantic cognition and language. My main research tools have included fMRI (both task-based and resting-state), gradient decomposition, multivariate analyses, DTI tractography, TMS, cognitive paradigms, automated meta-analytical techniques and cognitive decoding.
+I am a Research Associate at in the [Department of Psychology](https://www.york.ac.uk/psychology) of the University of York and [York Neuroimaging Centre](https://www.york.ac.uk/psychology/research/york-neuroimaging-centre/) working with Professor [Beth Jefferies](https://scholar.google.co.uk/citations?user=9OBIArkAAAAJ&hl=en). I received my PhD in Cognitive Neuroscience and Neuroimaging from the University of York (2020), and my MSc in Clinical Neuropsychology from the [National Autonomous University of Mexico](https://www.unam.mx/). I am interested in understanding how large-scale cortical networks and intrinsic connectivity gradients organise to give rise to semantic cognition and language through the interaction of control and default mode networks. My main research tools have included fMRI (both task-based and resting-state), gradient decomposition, multivariate analyses, DTI tractography, TMS, cognitive paradigms, automated meta-analytical techniques and cognitive decoding.
 
 As a general approach to research, I am keen on promoting open science, replicability and data-sharing best practices with my future work, pushing for greater transparency, integration and replicability of results across labs in the world. I would like to do further work with fMRI and TMS, as well as expanding to MEG to probe the temporal resolution and causal dynamics of semantic processing. I would be especially interested in joining a research environment in which I can expand my methodological and analysis toolbox and solve more complex questions through collaborative research.
 

@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "United Kingdom Government"
+  organization_url = "https://www.gov.uk/global-talent"
+  title = "Obtained Global Talent Visa"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-02-10"
+  date_end = ""
+  description = "Obtained the UK Global Talent visa (granted to individuals with exceptional talent or leaders in their field) to work on the ERC funded project FLEXSEM-771863."
+
+[[item]]
   organization = "Department of Psychology, University of York"
   organization_url = "https://www.york.ac.uk/psychology/"
   title = "Passed PhD Viva With No Corrections"
