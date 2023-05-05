@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "University of York, Department of Psychology and CNRS, France"
   organization_url = "https://www.gin.cnrs.fr/en/about-us/research-staff/michel-thiebaut-de-schotten-phd/"
-  title = "Hemispheric differences in structural connectivity across the temporal lobes and their relationship to semantic control"
+  title = "Hemispheric differences in structural connectivity across the temporal lobes and their relationship to semantic cognition"
   url = ""
   certificate_url = ""
   date_start = "2020-03-01"
