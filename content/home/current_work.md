@@ -19,8 +19,8 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "University of York, Department of Psychology and York Neuroimaging Centre"
-  organization_url = "https://www.ynic.york.ac.uk/"
+  organization = "University of York, Department of Psychology and CNRS, France"
+  organization_url = "https://www.gin.cnrs.fr/en/about-us/research-staff/michel-thiebaut-de-schotten-phd/"
   title = "Hemispheric differences in structural connectivity across the temporal lobes and their relationship to semantic control"
   url = ""
   certificate_url = ""
@@ -29,8 +29,8 @@ date_format = "Jan 2006"
   description = "Previous work has shown that left posterior middle temporal gyrus regions are important for the controlled retrieval of aspects of semantic representations that are relevant to the current context/goals, and that these regions seem to form a left-lateralised network with other regions in inferior frontal gyrus. This project, in collaboration with [Professor Michel Thiebaut de Schotten](https://scholar.google.co.uk/citations?user=-YTRX74AAAAJ&hl=en), aims to characterise if differences in the architecture of white matter tracts and their projections across the left and right cerebral hemispheres contribute to the organisation of a left-lateralised network involved in semantic control, as has been observed using intrinsic connectivity. Another region of interest due to its implications in storing semantic representations is the anterior temporal lobe. This region, despite being bilateral, shows subtle differences in the type of content it prefers in each hemisphere. In this project we are examining hemispheric differences in the structural connectivity of the anterior temporal lobe to investigate a potential structural basis of these differences."
 
 [[item]]
-  organization = "University of York, Department of Psychology and York Neuroimaging Centre"
-  organization_url = "https://www.ynic.york.ac.uk/"
+  organization = "University of York, Department of Psychology and Queen's University, Canada"
+  organization_url = "https://www.queensu.ca/psychology/jonathan-smallwood"
   title = "Do segregated but interacting visual-DMN pathways subserve distinct memory domains?"
   url = ""
   certificate_url = ""
@@ -54,7 +54,7 @@ date_format = "Jan 2006"
   title = "Understanding the impact of stroke in the cortical gradients of brain organisation"
   url = ""
   certificate_url = ""
-  date_start = "2022-06-16"
+  date_start = "2023-01-06"
   date_end = ""
   description = "The verbal and non-verbal sequelae of stroke on cognition are well documented; however, much less is known regarding why apparently similar lesions give rise to disparate patterns of impairment. This could be the consequence of disturbing sites that are topographically close, but very distant in a manifold obtained through dimensionality reduction of whole-brain patterns of high-dimensional intrinsic connectivity. The dimension that explains the maximum variance in this manifold (gradient 1) shows a gradient of transitions between sensory and default mode networks, gradient 2 between sensory and visual cortices, and gradient 3 between default mode and multiple demand networks. In this project, in collaboration with [Professor Cathy Price](https://scholar.google.co.uk/citations?user=gyfMndoAAAAJ&hl=en) from UCL we explore if this gradient framework can give rise to more comprehensive explanations of the patterns of deficit observed in stroke. Using three separate samples of stroke patients (combined n > 160) we apply gradient decomposition to their resting-state data and explore the differences between the patients and a control group in three-dimensional gradient space, and how these explain the deficits seen in a variety of neuropsychological tests."
 
