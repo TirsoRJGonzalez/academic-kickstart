@@ -46,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:trga500@york.ac.uk  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:tirso.gonzalez.alam@york.ac.uk  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/tirsorjgonzalez
@@ -88,4 +88,4 @@ After three projects in the research fellowship, my interests shifted to the neu
 
 On my free time, I like to learn programming languages andimprove on scripting through personal projects and work in visual arts projects as a hobby: ([VJing](https://liveperformersmeeting.net/editions/2018-rome/artists/ccs/), glitch and algorithmic art, [film criticism [in Spanish]](https://en.yelp.be/biz/la-esquina-del-goya-m%C3%A9rida)), reading, listening to podcasts and playing videogames (you can find me on Blizzard [tarantirso#1468], Steam [441497605], Xbox [tarantirso] or MTG Arena [tarantirso#98874]).
 
-{{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}} or email me at [trga500@york.ac.uk](mailto:trga500@york.ac.uk)
+{{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}} or email me at [tirso.gonzalez.alam@york.ac.uk](mailto:tirso.gonzalez.alam@york.ac.uk)
