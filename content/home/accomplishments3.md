@@ -26,20 +26,27 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2020-03-01"
   date_end = ""
-  description = "Previous work has shown that left posterior middle temporal gyrus regions are important for the controlled retrieval of aspects of semantic representations that are relevant to the current context/goals, and that these regions seem to form a left-lateralised network with other regions in inferior frontal gyrus. This project aims to characterise if differences in the architecture of white matter tracts and their projections across the left and right cerebral hemispheres contribute to the organisation of a left-lateralised network involved in semantic control, as has been observed using intrinsic connectivity"
+  description = "Previous work has shown that left posterior middle temporal gyrus regions are important for the controlled retrieval of aspects of semantic representations that are relevant to the current context/goals, and that these regions seem to form a left-lateralised network with other regions in inferior frontal gyrus. This project aims to characterise if differences in the architecture of white matter tracts and their projections across the left and right cerebral hemispheres contribute to the organisation of a left-lateralised network involved in semantic control, as has been observed using intrinsic connectivity. Another region of interest due to its implications in storing semantic representations is the anterior temporal lobe. This region, despite being bilateral, shows subtle differences in the type of content it prefers in each hemisphere. In this project we are examining hemispheric differences in the structural connectivity of the anterior temporal lobe to investigate a potential structural basis of these differences"
 
 [[item]]
   organization = "University of York, Department of Psychology and York Neuroimaging Centre"
   organization_url = "https://www.ynic.york.ac.uk/"
-  title = "Exploring hemispheric differences in a cortical gradient hierarchy in the human brain"
+  title = "Do segregated but interacting visual-DMN pathways subserve distinct memory domains?"
   url = ""
   certificate_url = ""
-  date_start = "2020-04-20"
+  date_start = "2021-04-23"
   date_end = ""
-  description = "Studying potential mechanisms for the left-lateralisation observed in the semantic control component during my PhD; a promising direction for this could be to think about the interaction of different large-scale cortical networks in left vs right hemisphere: preliminary evidence suggests that integration vs segregation of DMN-MDN across the hemispheres could be useful in elucidating attentional and linguistic lateralised phenomena previously described in the literature; my future research aims to capitalise in recent developments, such as the description of a hierarchy of cortical gradients, or ever-more-sophisticated atlasing work; together with large-scale automated meta-analysis techniques for determining/confirming ROIs, this could help us describe differences in network interactions across the hemispheres and how they potentially give rise to lateralised, important areas"
+  description = "The Default Mode Network (DMN) is full of apparent contradictions: it is often task negative but at the same time supports semantic and spatial cognition; it is implicated in internal, perceptually-decoupled states, yet the semantic and spatial tasks it supports are visually-mediated. This network shows distinct subsystems whose role in distinct memory domains is not sufficiently understood, as is their intrinsic connectivity architecture in relation to perceptual systems. In this project, we are using a combination of univariate, connectivity and multivariate fMRI analyses across three samples (combined N > 250) to investigate the architecture connecting visual cortex to DMN, and the engagement of visual-DMN pathways in memory-guided decisions across two domains (semantic and spatial). We are exploring whether there are segregated pathways that allow distinct visual-DMN interactions to support separate cognitive domains, and if so, how do these interact? How do our representations of objects and the locations they’re embedded in become integrated?"
 
-
-
+[[item]]
+  organization = "University of York, Department of Psychology and York Neuroimaging Centre"
+  organization_url = "https://www.ynic.york.ac.uk/"
+  title = "Understanding how laterality of lesions contributes to distinct patterns of deficit through connectivity changes using iTMS"
+  url = ""
+  certificate_url = ""
+  date_start = "2022-06-16"
+  date_end = ""
+  description = “Despite the fact that the majority of connections in the brain are strongly homotopical and mostly symmetrical when measured through intrinsic connectivity, neuropsychology reveals that damage to the left and right hemispheres gives rise to strikingly different clusters of symptoms. The reasons for these differences are not well understood. In this project (in collaboration with Dr David Pitcher) we are using inhibitory Transcranial Magnetic Stimulation to transiently disturb sites that are important for language processing and face perception in the left and right hemispheres, respectively, and documenting the changes in intrinsic connectivity in each site’s profile of large-scale cortical networks preference, as well as their position in a three-dimensional gradient space of similarity of connectivity. Simultaneously, we are examining the behavioural effects of TMS stimulation to language and face perception tasks and relating it to the disturbances in connectivity, with the aim of better understanding how the changes in connectivity generated by lesions give rise to distinct syndromes in the left and right hemispheres”.
 
   # To add:
   # Practical workshop focussed on TMS: Basic physiology, neuronavigation and cognitive studies
